@@ -1,1 +1,3 @@
 print("i am hungry")
+print("my wife is also hungry")
+print("my kid is also hungry"
